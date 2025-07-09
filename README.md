@@ -1,5 +1,4 @@
-#Global Consumption
-##Overview
+#Global Consumption##Overview
 This dashboard explores patterns in global energy use, comparing fossil fuel reliance, renewable energy share, Carbon monoxide emissions, and energy prices across 10 countries over a period of 25 years.
 ###Key Metrics
 -Countries: 10
