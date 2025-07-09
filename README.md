@@ -32,7 +32,7 @@ Carbon monoxide emissions, and energy prices across 10 countries over a period o
       - Germany leads in renewable adoption among the listed countries.
       - India and USA still show significant fossil fuel dependency.
       - A visible shift in energy strategy is evident in UK and Japan, with near parity between fossil and renewabe shares.
-
+      
 ### Energy Price Index(USD/kWh) vs Renewable Energy Share(%)
         Question Explored: Does renewable energy adoption lower energy prices?
 
