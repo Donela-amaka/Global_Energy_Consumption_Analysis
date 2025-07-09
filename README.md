@@ -13,4 +13,4 @@ Average Energy Consumption: 5,140 kWh per capita
 
 ## Dashboard Preview
 ![Dashboard]
-(Donela/Energy_Emission_Analysis.JPG)
+(Donela-Nwamaka/Energy_Emission_Analysis.JPG)
