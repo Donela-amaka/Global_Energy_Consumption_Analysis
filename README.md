@@ -12,5 +12,5 @@ Report Years: 25
 Average Energy Consumption: 5,140 kWh per capita
 
 ## Dashboard Preview
-
-![Energy_Emission_Analysis.JPG]
+![Dashboard Preview]
+(Energy_Emission_Analysis.JPG)
