@@ -31,7 +31,8 @@ Carbon monoxide emissions, and energy prices across 10 countries over a period o
 #### Insights:
       - Germany leads in renewable adoption among the listed countries.
       - India and USA still show significant fossil fuel dependency.
-      - A visible shift in energy strategy is evident in UK and Japan, with near parity between fossil and renewabe shares.
+      - A visible shift in energy strategy is evident in UK and Japan, with near parity between 
+        fossil and renewabe shares.
       
 ### Energy Price Index(USD/kWh) vs Renewable Energy Share(%)
         Question Explored: Does renewable energy adoption lower energy prices?
@@ -51,7 +52,8 @@ Carbon monoxide emissions, and energy prices across 10 countries over a period o
 
 
 ### Summary of Findings
-         -There is some correlation between energy use and carbon emissions, but efficiency and energy source mix matter greatly.
+         -There is some correlation between energy use and carbon emissions, but efficiency and energy source mix matter 
+          greatly.
          - Countries with higher renewable energy share do not always enjoy the lowest energy prices.
          - A Transition to renewable energy is visible in many developed nations, though fossil fuel use remains high.
 
