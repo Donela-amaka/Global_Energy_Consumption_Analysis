@@ -52,8 +52,8 @@ Carbon monoxide emissions, and energy prices across 10 countries over a period o
 
 
 ### Summary of Findings
-         -There is some correlation between energy use and carbon emissions, but efficiency and energy source mix matter 
-          greatly.
+         -There is some correlation between energy use and carbon emissions, but efficiency and energy source mix 
+         matter greatly.
          - Countries with higher renewable energy share do not always enjoy the lowest energy prices.
          - A Transition to renewable energy is visible in many developed nations, though fossil fuel use remains high.
 
