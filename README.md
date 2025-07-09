@@ -6,4 +6,4 @@ This dashboard explores patterns in global energy use, comparing fossil fuel rel
 Report Years: 25
 Average Energy Consumption: 5,140 kWh per capita
 ##Dashboard Screenshot
-![Dashboard](dashboard.png)
+![Dashboard](Energy Emission Analysis.JPG)
