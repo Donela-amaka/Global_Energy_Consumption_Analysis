@@ -6,9 +6,11 @@ Carbon monoxide emissions, and energy prices across 10 countries over a period o
 
 ### Key Metrics
 Countries: 10
+
 Report Years: 25
+
 Average Energy Consumption: 5,140 kWh per capita
 
 ## Dashboard Preview
-! [Dashboard]
+![Energy_Emission_Analysis.JPG]
 (Energy_Emission_Analysis.JPG)
